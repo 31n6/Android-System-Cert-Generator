@@ -1,0 +1,7 @@
+id=android-cacert
+name=Android CA Certificate
+version=v1.0
+versionCode=1
+author=
+description=Auto-generates a 180-day self-signed CA cert and installs it as a system cert (Android 14/15). Exports PKCS#12 to /data/local/tmp/ for Burp Suite import.
+updateJson=
